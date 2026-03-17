@@ -1,7 +1,7 @@
 # LuggaLens - Catalog Operations Analytics
 **Amazon IN Luggage | Catalog Analyst Portfolio Project**
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## What this project does
 End-to-end analytics system simulating the daily workflow of an Amazon 
