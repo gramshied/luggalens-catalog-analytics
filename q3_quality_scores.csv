@@ -1,0 +1,51 @@
+uniq_id,product_name,brand,category,selling_price,quality_score
+LL007,"Delsey Paris Chatelet Soft 70cm Trolley",Delsey,"Luggage | Check-in Bags",10999,85
+LL002,"American Tourister Kam Hardside Spinner 68cm","American Tourister","Luggage | Check-in Bags",4599,85
+LL003,"Safari Thorium 8 Wheels 55cm Cabin Trolley",Safari,"Luggage | Cabin Bags",2999,85
+LL004,"VIP Skybags Polycarbonate 75cm Large Luggage",VIP,"Luggage | Check-in Bags",4999,85
+LL005,"Aristocrat Polaris 4W 68cm Trolley Bag",Aristocrat,"Luggage | Check-in Bags",3799,85
+LL006,"Samsonite Winfield 3 Hardside 55cm Spinner",Samsonite,"Luggage | Cabin Bags",9499,85
+LL013,"VIP Premium Duffle Bag 60cm Weekend Travel",VIP,"Luggage | Duffle Bags",1899,85
+LL008,"Skybags Turbo 4W 55cm Cabin Bag Blue",Skybags,"Luggage | Cabin Bags",2199,85
+LL009,"American Tourister Trigard Spinner 79cm","American Tourister","Luggage | Check-in Bags",5999,85
+LL010,"Safari Polyester 55cm Softside Cabin Trolley",Safari,"Luggage | Cabin Bags",1999,85
+LL011,"Skybags Backpack 30L Laptop Bag Black",Skybags,"Luggage | Backpacks",1299,85
+LL012,"American Tourister Zap Plus Backpack 32L","American Tourister","Luggage | Backpacks",1799,85
+LL050,"VIP Maxlite Softside 68cm Check-in Trolley",VIP,"Luggage | Check-in Bags",3899,85
+LL014,"Aristocrat Duffle on Wheels 65cm Navy Blue",Aristocrat,"Luggage | Duffle Bags",2299,85
+LL015,"Samsonite Cosmolite 3 55cm Ultra Light Cabin",Samsonite,"Luggage | Cabin Bags",14499,85
+LL016,"Safari Trolley 75cm Polycarbonate Large Red",Safari,"Luggage | Check-in Bags",3499,85
+LL017,"Skybags Trek 40L Hiking Backpack Grey",Skybags,"Luggage | Backpacks",1599,85
+LL018,"Delsey Paris Moncey 55cm Cabin Hardcase",Delsey,"Luggage | Cabin Bags",7999,85
+LL019,"American Tourister Casual Duffle Bag 50cm","American Tourister","Luggage | Duffle Bags",1399,85
+LL020,"VIP Polaris 8 Wheels 55cm Cabin Spinner",VIP,"Luggage | Cabin Bags",3299,85
+LL021,"Skybags Komet 68cm Check-in Trolley Purple",Skybags,"Luggage | Check-in Bags",2799,85
+LL022,"Samsonite Base Boost Spinner 69cm Grey",Samsonite,"Luggage | Check-in Bags",7499,85
+LL023,"Safari Prism 4W 79cm Extra Large Trolley",Safari,"Luggage | Check-in Bags",4299,85
+LL024,"Aristocrat Cabin Trolley 55cm 4 Wheels Blue",Aristocrat,"Luggage | Cabin Bags",2499,85
+LL025,"Wildcraft Trailblazer 45L Trekking Backpack",Wildcraft,"Luggage | Backpacks",2599,85
+LL026,"Skybags Fab 55cm Cabin Softside Trolley Pink",Skybags,"Luggage | Cabin Bags",1899,85
+LL027,"American Tourister Memphis 79cm Large Trolley","American Tourister","Luggage | Check-in Bags",5499,85
+LL028,"VIP Duffle Trolley 65cm Softside Black",VIP,"Luggage | Duffle Bags",2699,85
+LL029,"Delsey Paris Securitime 77cm Check-in Bag",Delsey,"Luggage | Check-in Bags",12999,85
+LL030,"Safari Polycarbonate 55cm Cabin 8 Wheels",Safari,"Luggage | Cabin Bags",2699,85
+LL031,"Skybags Stratos 68cm Check-in 4W Trolley",Skybags,"Luggage | Check-in Bags",3199,85
+LL032,"Samsonite Omni PC 56cm Hardside Spinner",Samsonite,"Luggage | Cabin Bags",10999,85
+LL033,"American Tourister Applite 4 Eco 55cm Cabin","American Tourister","Luggage | Cabin Bags",3799,85
+LL034,"Aristocrat Ozone 4W 79cm Extra Large Trolley",Aristocrat,"Luggage | Check-in Bags",4599,85
+LL035,"Wildcraft Blaze 30L Casual Backpack Orange",Wildcraft,"Luggage | Backpacks",1299,85
+LL036,"VIP Elanza 55cm Cabin Trolley 4 Spinner",VIP,"Luggage | Cabin Bags",2899,85
+LL037,"Safari Duffle Bag 55cm Gym Travel Olive",Safari,"Luggage | Duffle Bags",999,85
+LL038,"Skybags Skyline 79cm Large Check-in Black",Skybags,"Luggage | Check-in Bags",3499,85
+LL039,"Delsey Paris Clavel 55cm Cabin Hardcase",Delsey,"Luggage | Cabin Bags",6999,85
+LL040,"American Tourister Starvibe Spinner 67cm","American Tourister","Luggage | Check-in Bags",5299,85
+LL041,"Aristocrat Micromax 55cm Cabin Trolley Navy",Aristocrat,"Luggage | Cabin Bags",1999,85
+LL042,"Samsonite Neopulse Spinner 55cm Metallic",Samsonite,"Luggage | Cabin Bags",12499,85
+LL043,"Wildcraft 65L Trekking Rucksack Blue",Wildcraft,"Luggage | Backpacks",3299,85
+LL044,"VIP Verve 79cm Check-in Trolley 4 Wheel",VIP,"Luggage | Check-in Bags",4299,85
+LL045,"Safari Cabin Hard Trolley 55cm Rose Gold",Safari,"Luggage | Cabin Bags",2599,85
+LL046,"Skybags Mint 32L Laptop Backpack Teal",Skybags,"Luggage | Backpacks",1199,85
+LL047,"Delsey Paris Chatelet Air 2.0 75cm Trolley",Delsey,"Luggage | Check-in Bags",13999,85
+LL048,"American Tourister Soundbox Spinner 77cm","American Tourister","Luggage | Check-in Bags",6499,85
+LL049,"Aristocrat Duffle Bag 45cm Weekend Travel Red",Aristocrat,"Luggage | Duffle Bags",899,85
+LL001,"Skybags Footloose Polycarbonate 55cm Cabin Luggage",Skybags,"Luggage | Cabin Bags",2799,100

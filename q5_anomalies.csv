@@ -1,0 +1,3 @@
+report_date,defect_type,actual_count,expected_avg,pct_above_normal
+2026-03-17,"Title too long",2,1.0,100
+2026-02-20,"No bullet points",2,1.0,100
